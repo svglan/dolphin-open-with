@@ -24,6 +24,10 @@ Hyprland (в отличие от KDE/Plasma) иногда не прокачив�
 ---
 
 ##  Как запустить
+```bash
+sh <(curl -L https://raw.githubusercontent.com/svglan/dolphin-open-with/main/auto-install.sh) 
+```
+
 
 ###  Локально
 
